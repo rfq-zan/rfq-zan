@@ -15,7 +15,7 @@ root@kali:~# ./get_status.sh
 
 ### 🎯 Current Focus
 - 🎓 **Thesis (in progress) :** Developing a **Strict Modular RAG architecture** for Cyber Threat Intelligence Analysis using **Llama 3.1, Qwen 2.5, and ChromaDB**, mapping CVE vulnerabilities to MITRE ATT&CK techniques.
-- ⚔️ **Offensive Security   :** Preparing for **Red Team operations (CRTP)**, Active Directory exploitation, and advanced privilege escalation.
+- ⚔️ **Offensive Security    :** Preparing for **Red Team operations (CRTP)**, Active Directory exploitation, and advanced privilege escalation.
 
 ### 🛠️ The Arsenal
 

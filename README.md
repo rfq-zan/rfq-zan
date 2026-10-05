@@ -44,7 +44,7 @@ root@kali:~# ./get_status.sh
 </div>
 <br/>
 <div align="left">
-  <a href="https://tryhackme.com/p/YOUR_EXACT_THM_USERNAME">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_EXACT_THM_USERNAME.png" alt="TryHackMe" />
+  <a href="https://tryhackme.com/p/Rielf">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Rielf.png" alt="TryHackMe" />
   </a>
 </div>

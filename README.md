@@ -1,4 +1,4 @@
-# Hi there, I'm Rielf 👋
+# Hi there, I'm Zan 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&width=435&lines=Red+Team+In+Training;Cybersecurity+Researcher;Backend+Engineer)](https://git.io/typing-svg)
 
@@ -39,6 +39,12 @@ root@kali:~# ./get_status.sh
 ### 📊 Telemetry
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=hacker&show_icons=true&hide_border=true&bg_color=000000" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=hacker&layout=compact&hide_border=true&bg_color=000000" height="165" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rfq-zan&theme=hacker&show_icons=true&hide_border=true&bg_color=000000" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wakatime.com/@&theme=hacker&layout=compact&hide_border=true&bg_color=000000" height="165" alt="WakaTime Stats" />
+</div>
+<br/>
+<div align="left">
+  <a href="https://tryhackme.com/p/Rielf">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Rielf.png" alt="TryHackMe" />
+  </a>
 </div>

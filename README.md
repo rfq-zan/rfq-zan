@@ -38,7 +38,4 @@ root@kali:~# ./get_status.sh
 
 ### 📊 Telemetry
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfq-zan&theme=hacker&show_icons=true&hide_border=true&bg_color=000000&v=12345)](https://github.com/rfq-zan)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfq-zan&theme=hacker&layout=compact&hide_border=true&bg_color=000000&v=12345)](https://github.com/rfq-zan)
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/rielf.png)](https://tryhackme.com/p/rielf)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=rfq-zan&theme=nord&custom_title=%5B%21%5D+Status%3A+Enumerating+BloodHound...&size=compact)

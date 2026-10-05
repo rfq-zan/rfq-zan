@@ -39,12 +39,12 @@ root@kali:~# ./get_status.sh
 ### 📊 Telemetry
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfq-zan&theme=hacker&show_icons=true&hide_border=true&bg_color=000000&v=1" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfq-zan&theme=hacker&layout=compact&hide_border=true&bg_color=000000" height="165" alt="Top Languages" />
-</div>
-<br/>
-<div align="left">
   <a href="https://tryhackme.com/p/Rielf">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Rielf.png" alt="TryHackMe" />
   </a>
+</div>
+<br/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rfq-zan&theme=hacker&show_icons=true&hide_border=true&bg_color=000000&v=1" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfq-zan&theme=hacker&layout=compact&hide_border=true&bg_color=000000" height="165" alt="Top Languages" />
 </div>

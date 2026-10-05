@@ -37,13 +37,14 @@ root@kali:~# ./get_status.sh
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### 📊 Telemetry
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfq-zan&theme=hacker&show_icons=true&hide_border=true&bg_color=000000" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_NAME_HERE&theme=hacker&layout=compact&hide_border=true&bg_color=000000" height="165" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rfq-zan&theme=hacker&show_icons=true&hide_border=true&bg_color=000000&v=1" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfq-zan&theme=hacker&layout=compact&hide_border=true&bg_color=000000" height="165" alt="Top Languages" />
 </div>
 <br/>
 <div align="left">
-  <a href="https://tryhackme.com/p/Rielf">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Rielf.png" alt="TryHackMe" />
+  <a href="https://tryhackme.com/p/YOUR_EXACT_THM_USERNAME">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_EXACT_THM_USERNAME.png" alt="TryHackMe" />
   </a>
 </div>

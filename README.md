@@ -8,14 +8,14 @@ Mohammad Rifqi Razzan Pratama (Rielf)
 
 root@kali:~# ./get_status.sh
 [+] Objective    : Certified Red Team Professional (CRTP)
-[+] Base         : Universitas Trunojoyo Madura
-[+] Background   : Backend Eng & QA @ PT Klik Digital Sinergi
+[+] Base         : Universitas Trunojoyo Madura (7th Year)
+[+] Current Task : Bachelor's Thesis
+[+] Internship   : Former Backend Engineer & QA @ PT Klik Digital Sinergi 
 ```
 
 ### 🎯 Current Focus
-- Preparing for **Red Team operations (CRTP)**, Active Directory exploitation, and advanced privilege escalation.
-- Developing a **Strict Modular RAG architecture** for Cyber Threat Intelligence Analysis using **Llama 3.1, Qwen 2.5, and ChromaDB**, mapping CVE vulnerabilities to MITRE ATT&CK techniques.
-- Building a seasonal context-aware **Smart Tourism Recommender System** using BiLSTM and LDA models.
+- 🎓 **Skripsi / Final Thesis:** Developing a **Strict Modular RAG architecture** for Cyber Threat Intelligence Analysis using **Llama 3.1, Qwen 2.5, and ChromaDB**, mapping CVE vulnerabilities to MITRE ATT&CK techniques.
+- ⚔️ **Offensive Security:** Preparing for **Red Team operations (CRTP)**, Active Directory exploitation, and advanced privilege escalation.
 
 ### 🛠️ The Arsenal
 
@@ -37,10 +37,9 @@ root@kali:~# ./get_status.sh
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### 📊 Telemetry
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rfq-zan&theme=hacker&show_icons=true&hide_border=true&bg_color=000000" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wakatime.com/@&theme=hacker&layout=compact&hide_border=true&bg_color=000000" height="165" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_NAME_HERE&theme=hacker&layout=compact&hide_border=true&bg_color=000000" height="165" alt="WakaTime Stats" />
 </div>
 <br/>
 <div align="left">

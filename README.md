@@ -1,6 +1,6 @@
 # Hi there, I'm Zan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&width=435&lines=Red+Team+In+Training;Cybersecurity+Researcher;Backend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FF00&width=435&lines=Red+Team+In+Training;Cybersecurity+Beginner;Backend+Engineer)](https://git.io/typing-svg)
 
 ```console
 root@kali:~# whoami
